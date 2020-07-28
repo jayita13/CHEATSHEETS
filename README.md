@@ -4,6 +4,9 @@
 # Git Cheat Sheet
 https://cheatography.com/samcollett/cheat-sheets/git/
 
+# AI Cheat Sheet
+https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-science-pdf-f22dc900d2d7
+
 # Python For Data Science Cheat Sheet:
 https://media-exp1.licdn.com/dms/document/C4E1FAQF1vKYiGHoANQ/feedshare-document-pdf-analyzed/0?e=1596052800&v=beta&t=mX6R_ghDxcIGdi_JgzTE6pgzXleO5gZh5XA2TVs7-iw
 
